@@ -2,7 +2,7 @@
   "name": "react-flux-bill",
   "version": "0.0.1",
   "author": "Callum Rimmer <callumt@deadtrendy.co.uk>",
-  "description": "An Example React Flux Backbone App for displaying a statement",
+  "description": "An Example React / Flux / Backbone App for displaying a statement",
   "dependencies": {
     "jquery": "*",
     "underscore": "*",

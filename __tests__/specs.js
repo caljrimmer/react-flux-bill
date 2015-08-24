@@ -8,16 +8,13 @@ import BillStore from '../src/store/BillStore';
 //Components
 import Calls from '../src/components/partials/Calls';
 import Footer from '../src/components/partials/Footer';
-import Header from '../src/components/partials/Header';
 import Purchases from '../src/components/partials/Purchases';
 import Subscriptions from '../src/components/partials/Subscriptions';
 
 jest.dontMock('../src/components/partials/Calls.js');
 jest.dontMock('../src/components/partials/Footer.js');
-jest.dontMock('../src/components/partials/Header.js');
 jest.dontMock('../src/components/partials/Purchases.js');
 jest.dontMock('../src/components/partials/Subscriptions.js');
-jest.dontMock('../src/components/Bill.js');
 
 var calls;
 var subs;

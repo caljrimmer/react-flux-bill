@@ -1,6 +1,8 @@
 # Simple Bill statement with React/Backbone utilising Flux
 
-The app is an example of flux architecture with Backbone used for the Stores. Jest is used to test the app. Gulp is used as the build tool.
+The app is an example of flux architecture with Backbone used for the Stores.
+Jest is used to test the app.
+Gulp is used as the build tool.
 
 ## Installation
 
@@ -22,4 +24,4 @@ Tests can be found in __tests__. They can be run with
 
 ```
 npm test
-``
+```
