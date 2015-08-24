@@ -6,9 +6,16 @@ Gulp is used as the build tool.
 
 ## Installation
 
-Clone repo then in root dir
+Clone repo 
 
 ```
+git clone https://github.com/caljrimmer/react-flux-bill.git
+```
+
+then
+
+```
+cd react-flux-bill
 npm start
 ```
 
